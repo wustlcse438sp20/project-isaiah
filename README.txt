@@ -1,5 +1,5 @@
-App Name:
-Team Members:
+App Name: Reddit Clone
+Team Members: Isaiah Ware
 
 In this file you should include:
 
